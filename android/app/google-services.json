@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "81548110298",
+    "firebase_url": "https://app-hot-toc-default-rtdb.firebaseio.com",
+    "project_id": "app-hot-toc",
+    "storage_bucket": "app-hot-toc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81548110298:android:9c457dfc65cee2bffab8e3",
+        "android_client_info": {
+          "package_name": "com.example.app_hot_toc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEA579L6Grb07ut72AYSlMDCiPrQg0WxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
